@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme.-->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- App branding color for the app bar.-->
+        <item name="colorPrimary">#009688</item>
+        <!-- Darker varient for the status bar and contextual app bars.-->
+        <item name="colorPrimaryDark">#007968</item>
+        <!-- Theme UI controls like checkboxes and text fields-->
+        <item name="colorAccent">#536DFE</item>
+    </style>
+
+    <!-- Style for a header textview.-->
+    <style name="CustomText" >  <!-- we use this name of the style in activity_main.xml.-->
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#4527A0</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="CafeNameStyle" >  <!-- we use this name of the style in activity_main.xml.-->
+        <item name="android:layout_height">58dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">38dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:color">#ffffff</item>
+        <item name="android:fontFamily">aclonica</item>
+    </style>
+
+    <style name="HeaderTextStyle" >  <!-- we use this name of the style in activity_main.xml.-->
+        <item name="android:layout_height">48dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+</resources>

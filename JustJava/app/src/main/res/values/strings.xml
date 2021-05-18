@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Buzz Cafe</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped cream</string>
+    <string name="quantity">Quantity</string>
+    <string name="aa">-</string>
+    <string name="_0">0</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="o_rupee">$ 0</string>
+    <string name="order">Order</string>
+    <string name="sum">+</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="name">name</string>
+    <string name="buzz_cafe">Buzz Cafe</string>
+</resources>
